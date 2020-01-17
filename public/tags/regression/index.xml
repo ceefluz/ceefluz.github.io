@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Christian Luz</title>
+    <link>/tags/regression/</link>
+    <description>Recent content in regression on Christian Luz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abstract at the Digital ID 2020 Conference, Basel, Switzerland</title>
+      <link>/2015/07/23/abstract-at-the-digital-id-2020-conference-basel-switzerland/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/abstract-at-the-digital-id-2020-conference-basel-switzerland/</guid>
+      <description>Machine learning in infection management using routine electronic health records: mapping the potential of future technologies Christian F. Luz (1), Marcus Vollmer (2), Johan Decruyenaere (3), Maarten W. Nijsten (4), Corinna Glasner (1), Bhanu Sinha (1)
+ 1 University of Groningen, University Medical Center Groningen, Department of Medical Microbiology and Infection Prevention, Groningen, The Netherlands 2 Institute of Bioinformatics, University Medicine Greifswald, Greifswald, Germany 3 Ghent University, Ghent University Hospital, Department of Intensive Care, Ghent, Belgium 4 University of Groningen, University Medical Center Groningen, Department of Critical Care, Groningen, The Netherlands  Introduction Machine learning (ML) is increasingly used in healthcare.</description>
+    </item>
+    
+  </channel>
+</rss>

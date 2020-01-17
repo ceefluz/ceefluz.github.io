@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Luz</title>
+    <link>/</link>
+    <description>Recent content on Christian Luz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abstract at the Digital ID 2020 Conference, Basel, Switzerland</title>
+      <link>/post/machine-learning-in-infection-management-using-routine-electronic-health-records-mapping-the-potential-of-future-technologies/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/machine-learning-in-infection-management-using-routine-electronic-health-records-mapping-the-potential-of-future-technologies/</guid>
+      <description>Machine learning in infection management using routine electronic health records: mapping the potential of future technologies Christian F. Luz (1), Marcus Vollmer (2), Johan Decruyenaere (3), Maarten W. Nijsten (4), Corinna Glasner (1), Bhanu Sinha (1)
+ 1 University of Groningen, University Medical Center Groningen, Department of Medical Microbiology and Infection Prevention, Groningen, The Netherlands 2 Institute of Bioinformatics, University Medicine Greifswald, Greifswald, Germany 3 Ghent University, Ghent University Hospital, Department of Intensive Care, Ghent, Belgium 4 University of Groningen, University Medical Center Groningen, Department of Critical Care, Groningen, The Netherlands  Introduction Machine learning (ML) is increasingly used in healthcare.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+  </channel>
+</rss>
