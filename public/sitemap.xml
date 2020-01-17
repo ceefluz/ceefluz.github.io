@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/machine-learning-in-infection-management-using-routine-electronic-health-records-mapping-the-potential-of-future-technologies/</loc>
+    <loc>/categories/abstract/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/abstract-at-the-digital-id-2020-conference-basel-switzerland/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +33,11 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
